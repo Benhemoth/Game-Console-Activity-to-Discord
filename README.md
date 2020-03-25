@@ -1,4 +1,6 @@
-English｜Japanese
+[English](https://github.com/Chipsnet/Game-Console-Activity-to-Discord/blob/master/README_en.md)｜Japanese
+
+> このリポジトリは [BonyChops/Game-Console-Activity-to-Discord](https://github.com/BonyChops/Game-Console-Activity-to-Discord) のforkです。
 
 # Game Console Activity to Discord
 

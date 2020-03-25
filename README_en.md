@@ -1,3 +1,5 @@
+English｜[Japanese](https://github.com/Chipsnet/Game-Console-Activity-to-Discord/blob/master/README.md)
+
 # Game Console Activity to Discord
 Share your ACTUAL game console activity on Discord!
 # Features
@@ -34,7 +36,7 @@ Such as...
 1. Done! Go on to the next section: [Setup for windows](#setup-for-windows) (and also for other os)
 
 # Setup for Windows (and other OS)
-0. If you are using not Windows, you have to do [this](#pre-configure-for-maclinux-and-other-os) first. 
+0. If you are using not Windows, you have to do [this](#pre-configure-for-maclinux-and-other-os) first.
 1. Run `config.exe` (`config.py`) to start configuration.
 1. Add your console infomation  
 Here is some example...
@@ -75,7 +77,7 @@ Goodbye.
 You have to realise what is your IP address of your consoles.  
 If your console is Nintendo Switch, you can find it here  
 - [Settings] - [Internet] - [Connection Status] - [IP Address]
-- [設定] - [インターネット] - [接続状況] - [IPアドレス] 
+- [設定] - [インターネット] - [接続状況] - [IPアドレス]
 3. Done! Easy-peasy!
 2. Run `start.exe` (`start.py`). It will change your Discord profile automatically.
 
