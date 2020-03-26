@@ -33,7 +33,7 @@ Such as...
 1. Run `git clone https://github.com/Chipsnet/Game-Console-Activity-to-Discord.git` to download this repository.
 1. `cd Game-Console-Activity-to-Discord`
 1. Run `pip install -r requirements.txt` to install package.
-1. Done! Go on to the next section: [Setup for windows](#setup-for-windows) (and also for other os)
+1. Done! Go on to the next section: [Setup for windows](#setup-for-windows-and-other-os) (and also for other os)
 
 # Setup for Windows (and other OS)
 0. If you are using not Windows, you have to do [this](#pre-configure-for-maclinux-and-other-os) first.
