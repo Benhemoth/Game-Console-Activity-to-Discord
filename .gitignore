@@ -1,8 +1,10 @@
 config.json
 bin/
-
 build
 dist
 *.spec
+__pycache__
+GameConsoleActivitytoDiscord
+GameConsoleActivitytoDiscord-win.zip
 
 apps/
