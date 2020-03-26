@@ -25,14 +25,14 @@ Such as...
 
 # Releases (Download)
 ### Build for windows  
-### [Releases](https://github.com/BonyChops/Game-Console-Activity-to-Discord/releases)
+### [Releases](https://github.com/Chipsnet/Game-Console-Activity-to-Discord/releases)
 
 # Pre-configure for Mac/Linux and other OS
 0. This app will work for OS which can use Python3 and Discord native app.
 1. Install python3
-1. Run `git clone https://github.com/BonyChops/Game-Console-Activity-to-Discord.git` to download this repository.
+1. Run `git clone https://github.com/Chipsnet/Game-Console-Activity-to-Discord.git` to download this repository.
 1. `cd Game-Console-Activity-to-Discord`
-1. Run `pip3 install https://github.com/qwertyquerty/pypresence/archive/master.zip` to install package.
+1. Run `pip install -r requirements.txt` to install package.
 1. Done! Go on to the next section: [Setup for windows](#setup-for-windows) (and also for other os)
 
 # Setup for Windows (and other OS)
@@ -82,7 +82,7 @@ If your console is Nintendo Switch, you can find it here
 2. Run `start.exe` (`start.py`). It will change your Discord profile automatically.
 
 # Run app automatically when you booted up pc (Win only)
-Just run `automaticallyBoot.exe`  
+Just run `startup.exe`  
 It don't require admin rights.
 
 # Package
