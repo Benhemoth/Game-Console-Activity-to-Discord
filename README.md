@@ -12,8 +12,8 @@ Discordであなたのゲーム機でのアクティビティを共有しよう�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bonychops/Game-Console-Activity-to-Discord/img/status.png" alt="Profile" title="Profile"><br><br>
-<img src="https://raw.githubusercontent.com/bonychops/Game-Console-Activity-to-Discord/img/profile.png" alt="Profile" title="Profile">
+<img src="https://github.com/Chipsnet/Game-Console-Activity-to-Discord/blob/master/imgs/status.png?raw=true" alt="Profile" title="Profile"><br><br>
+<img src="https://github.com/Chipsnet/Game-Console-Activity-to-Discord/blob/master/imgs/profile.png?raw=true" alt="Profile" title="Profile">
 </div>
 
 # 対応デバイス
