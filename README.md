@@ -58,6 +58,7 @@ Pythonを実行することでソフトウェアを動かすことができま�
 Windowsの場合は`config.exe`を、Linux/MacOSの場合は`config.py`を実行し、設定を開始します。
 
 ```
+Which language? (English=en, 日本語=ja): en
 Configuration
 [0] Add new console
 [1] Delete console
